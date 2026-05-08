@@ -34,7 +34,6 @@ client/
 server/
 Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
 2. Install Dependencies
 Frontend:
 
